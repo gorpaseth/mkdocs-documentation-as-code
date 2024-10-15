@@ -1,0 +1,6 @@
+site_name: My Docs
+nav:
+  - Home: index.md
+  - About: the-mill-adventure-is-born.md
+  - Purpose: purpose.md
+  - Features: features.md
